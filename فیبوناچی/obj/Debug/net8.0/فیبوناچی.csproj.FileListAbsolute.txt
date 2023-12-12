@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\فیبوناچی\bin\Debug\net8.0\فیبوناچی.exe
+C:\Users\Asus\Desktop\فیبوناچی\bin\Debug\net8.0\فیبوناچی.deps.json
+C:\Users\Asus\Desktop\فیبوناچی\bin\Debug\net8.0\فیبوناچی.runtimeconfig.json
+C:\Users\Asus\Desktop\فیبوناچی\bin\Debug\net8.0\فیبوناچی.dll
+C:\Users\Asus\Desktop\فیبوناچی\bin\Debug\net8.0\فیبوناچی.pdb
+C:\Users\Asus\Desktop\فیبوناچی\obj\Debug\net8.0\فیبوناچی.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\فیبوناچی\obj\Debug\net8.0\فیبوناچی.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\فیبوناچی\obj\Debug\net8.0\فیبوناچی.AssemblyInfo.cs
+C:\Users\Asus\Desktop\فیبوناچی\obj\Debug\net8.0\فیبوناچی.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\فیبوناچی\obj\Debug\net8.0\فیبوناچی.dll
+C:\Users\Asus\Desktop\فیبوناچی\obj\Debug\net8.0\refint\فیبوناچی.dll
+C:\Users\Asus\Desktop\فیبوناچی\obj\Debug\net8.0\فیبوناچی.pdb
+C:\Users\Asus\Desktop\فیبوناچی\obj\Debug\net8.0\فیبوناچی.genruntimeconfig.cache
+C:\Users\Asus\Desktop\فیبوناچی\obj\Debug\net8.0\ref\فیبوناچی.dll
